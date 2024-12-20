@@ -1,1 +1,1 @@
-# Program-Penghitung-Kata
+# Program-Penghitung-Jumlah-Kata
